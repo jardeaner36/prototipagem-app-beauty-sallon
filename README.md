@@ -44,7 +44,9 @@ Como parte do exercício académico, foram identificados pontos de melhoria para
 ---
 
 ## 🔗 Acesso ao Projeto
-* **Protótipo Navegável (Figma):** [INSERIR O TEU LINK DO FIGMA AQUI]
+* **Protótipo Navegável (Figma):** [https://www.figma.com/proto/mHzMFZahvK9JYwX05q5EWe/prototipagem-wireframes?t=thThbu9thL6wKHzb-1]
+
+![Interface do Beauty Sallon](./image.png)
 
 ---
 *Este é um projeto com fins exclusivamente educativos.*
