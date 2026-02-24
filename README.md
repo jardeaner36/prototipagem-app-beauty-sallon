@@ -24,7 +24,7 @@ A proposta central do projeto é oferecer **conveniência e autonomia** no autoc
 ---
 
 ## 🛠️ O que foi desenvolvido
-* **Fluxo de Autenticação:** Tela de Login e Registo com foco em conversão.
+* **Fluxo de Autenticação:** Tela de Login.
 * **Tela Inicial (Home):** Sistema de navegação por categorias visuais e motor de busca em destaque.
 * **Tela de Favoritos:** Interface dedicada para acesso rápido aos serviços marcados pelo utilizador.
 
