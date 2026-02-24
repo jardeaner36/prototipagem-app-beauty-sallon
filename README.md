@@ -1,5 +1,5 @@
 # Beauty Sallon - App de Agendamento de Estética
-> **Projeto Académico** desenvolvido para a disciplina de Interface do Usuário na Cruzeiro do Sul Educacional.
+> **Projeto Académico** desenvolvido para a disciplina de Interface e Jornada do Usuário na Cruzeiro do Sul Educacional.
 
 ## 📌 Visão Geral
 O **Beauty Sallon** é um protótipo criado no Figma, focado em centralizar e simplificar o agendamento de serviços de beleza e bem-estar. O projeto explora a jornada do usuário desde a descoberta de novos procedimentos até à escolha.
